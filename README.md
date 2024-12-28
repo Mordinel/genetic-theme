@@ -26,3 +26,8 @@ Orange       | `#C96D26` | `201 109 38`  | `26° 68% 47%`
 BrightOrange | `#E9B48B` | `233 180 139` | `26° 68% 73%`   
 White        | `#CCCCCC` | `204 204 204` | `0° 0% 80%`     
 BrightWhite  | `#FFFFFF` | `255 255 255` | `0° 0% 100%`    
+
+## Greyscale rule
+
+Neutral greys can be used for any purpose, so long as the use is aesthetically pleasing.
+
