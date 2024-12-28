@@ -11,7 +11,7 @@ normal:
     green:   '#4DCA27'
     magenta: '#A427CA'
     red:     '#CA274D'
-    white:   '#B6B6B6'
+    white:   '#CCCCCC'
     yellow:  '#CAA427'
 
   # Bright colors
